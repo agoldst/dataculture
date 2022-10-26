@@ -1,0 +1,32 @@
+"Notes"	"Year"	"Year Code"	"Sex of Infant"	"Sex of Infant Code"	Births
+	"2016"	"2016"	"Female"	"F"	1927692
+	"2016"	"2016"	"Male"	"M"	2018183
+	"2017"	"2017"	"Female"	"F"	1882615
+	"2017"	"2017"	"Male"	"M"	1972885
+	"2018"	"2018"	"Female"	"F"	1853533
+	"2018"	"2018"	"Male"	"M"	1938179
+	"2019"	"2019"	"Female"	"F"	1830094
+	"2019"	"2019"	"Male"	"M"	1917446
+	"2020"	"2020"	"Female"	"F"	1765555
+	"2020"	"2020"	"Male"	"M"	1848092
+"---"
+"Dataset: Natality, 2016-2020 expanded"
+"Query Parameters:"
+"Year: 2016; 2017; 2018; 2019; 2020"
+"Group By: Year; Sex of Infant"
+"Show Totals: False"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 1,000"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/Natality-expanded.html for more information."
+"---"
+"Query Date: Oct 25, 2022 2:26:28 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Natality on CDC WONDER Online Database. Data are from the Natality Records 2016-2020, as compiled from data provided by"
+"the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed at"
+"http://wonder.cdc.gov/natality-expanded-current.html on Oct 25, 2022 2:26:28 PM"
+"---"
+Caveats:
+"1. Each birth record represents one liveborn infant."

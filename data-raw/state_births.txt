@@ -1,0 +1,532 @@
+"Notes"	"Year"	"Year Code"	"State of Residence"	"State of Residence Code"	"Sex of Infant"	"Sex of Infant Code"	Births
+	"2016"	"2016"	"Alabama"	"01"	"Female"	"F"	28860
+	"2016"	"2016"	"Alabama"	"01"	"Male"	"M"	30291
+	"2016"	"2016"	"Alaska"	"02"	"Female"	"F"	5444
+	"2016"	"2016"	"Alaska"	"02"	"Male"	"M"	5765
+	"2016"	"2016"	"Arizona"	"04"	"Female"	"F"	41514
+	"2016"	"2016"	"Arizona"	"04"	"Male"	"M"	43006
+	"2016"	"2016"	"Arkansas"	"05"	"Female"	"F"	18499
+	"2016"	"2016"	"Arkansas"	"05"	"Male"	"M"	19775
+	"2016"	"2016"	"California"	"06"	"Female"	"F"	238408
+	"2016"	"2016"	"California"	"06"	"Male"	"M"	250419
+	"2016"	"2016"	"Colorado"	"08"	"Female"	"F"	32587
+	"2016"	"2016"	"Colorado"	"08"	"Male"	"M"	34026
+	"2016"	"2016"	"Connecticut"	"09"	"Female"	"F"	17838
+	"2016"	"2016"	"Connecticut"	"09"	"Male"	"M"	18177
+	"2016"	"2016"	"Delaware"	"10"	"Female"	"F"	5358
+	"2016"	"2016"	"Delaware"	"10"	"Male"	"M"	5634
+	"2016"	"2016"	"District of Columbia"	"11"	"Female"	"F"	4737
+	"2016"	"2016"	"District of Columbia"	"11"	"Male"	"M"	5121
+	"2016"	"2016"	"Florida"	"12"	"Female"	"F"	109853
+	"2016"	"2016"	"Florida"	"12"	"Male"	"M"	115169
+	"2016"	"2016"	"Georgia"	"13"	"Female"	"F"	63962
+	"2016"	"2016"	"Georgia"	"13"	"Male"	"M"	66080
+	"2016"	"2016"	"Hawaii"	"15"	"Female"	"F"	8564
+	"2016"	"2016"	"Hawaii"	"15"	"Male"	"M"	9495
+	"2016"	"2016"	"Idaho"	"16"	"Female"	"F"	10999
+	"2016"	"2016"	"Idaho"	"16"	"Male"	"M"	11483
+	"2016"	"2016"	"Illinois"	"17"	"Female"	"F"	75509
+	"2016"	"2016"	"Illinois"	"17"	"Male"	"M"	78936
+	"2016"	"2016"	"Indiana"	"18"	"Female"	"F"	40255
+	"2016"	"2016"	"Indiana"	"18"	"Male"	"M"	42836
+	"2016"	"2016"	"Iowa"	"19"	"Female"	"F"	19398
+	"2016"	"2016"	"Iowa"	"19"	"Male"	"M"	20005
+	"2016"	"2016"	"Kansas"	"20"	"Female"	"F"	18470
+	"2016"	"2016"	"Kansas"	"20"	"Male"	"M"	19583
+	"2016"	"2016"	"Kentucky"	"21"	"Female"	"F"	26998
+	"2016"	"2016"	"Kentucky"	"21"	"Male"	"M"	28451
+	"2016"	"2016"	"Louisiana"	"22"	"Female"	"F"	31066
+	"2016"	"2016"	"Louisiana"	"22"	"Male"	"M"	32112
+	"2016"	"2016"	"Maine"	"23"	"Female"	"F"	6183
+	"2016"	"2016"	"Maine"	"23"	"Male"	"M"	6522
+	"2016"	"2016"	"Maryland"	"24"	"Female"	"F"	35754
+	"2016"	"2016"	"Maryland"	"24"	"Male"	"M"	37382
+	"2016"	"2016"	"Massachusetts"	"25"	"Female"	"F"	34907
+	"2016"	"2016"	"Massachusetts"	"25"	"Male"	"M"	36410
+	"2016"	"2016"	"Michigan"	"26"	"Female"	"F"	55310
+	"2016"	"2016"	"Michigan"	"26"	"Male"	"M"	58005
+	"2016"	"2016"	"Minnesota"	"27"	"Female"	"F"	34119
+	"2016"	"2016"	"Minnesota"	"27"	"Male"	"M"	35630
+	"2016"	"2016"	"Mississippi"	"28"	"Female"	"F"	18685
+	"2016"	"2016"	"Mississippi"	"28"	"Male"	"M"	19243
+	"2016"	"2016"	"Missouri"	"29"	"Female"	"F"	36418
+	"2016"	"2016"	"Missouri"	"29"	"Male"	"M"	38287
+	"2016"	"2016"	"Montana"	"30"	"Female"	"F"	5978
+	"2016"	"2016"	"Montana"	"30"	"Male"	"M"	6304
+	"2016"	"2016"	"Nebraska"	"31"	"Female"	"F"	13079
+	"2016"	"2016"	"Nebraska"	"31"	"Male"	"M"	13510
+	"2016"	"2016"	"Nevada"	"32"	"Female"	"F"	17778
+	"2016"	"2016"	"Nevada"	"32"	"Male"	"M"	18482
+	"2016"	"2016"	"New Hampshire"	"33"	"Female"	"F"	5855
+	"2016"	"2016"	"New Hampshire"	"33"	"Male"	"M"	6412
+	"2016"	"2016"	"New Jersey"	"34"	"Female"	"F"	50081
+	"2016"	"2016"	"New Jersey"	"34"	"Male"	"M"	52566
+	"2016"	"2016"	"New Mexico"	"35"	"Female"	"F"	12096
+	"2016"	"2016"	"New Mexico"	"35"	"Male"	"M"	12596
+	"2016"	"2016"	"New York"	"36"	"Female"	"F"	114466
+	"2016"	"2016"	"New York"	"36"	"Male"	"M"	119817
+	"2016"	"2016"	"North Carolina"	"37"	"Female"	"F"	58748
+	"2016"	"2016"	"North Carolina"	"37"	"Male"	"M"	62031
+	"2016"	"2016"	"North Dakota"	"38"	"Female"	"F"	5538
+	"2016"	"2016"	"North Dakota"	"38"	"Male"	"M"	5845
+	"2016"	"2016"	"Ohio"	"39"	"Female"	"F"	67449
+	"2016"	"2016"	"Ohio"	"39"	"Male"	"M"	70636
+	"2016"	"2016"	"Oklahoma"	"40"	"Female"	"F"	25753
+	"2016"	"2016"	"Oklahoma"	"40"	"Male"	"M"	26839
+	"2016"	"2016"	"Oregon"	"41"	"Female"	"F"	22153
+	"2016"	"2016"	"Oregon"	"41"	"Male"	"M"	23382
+	"2016"	"2016"	"Pennsylvania"	"42"	"Female"	"F"	67849
+	"2016"	"2016"	"Pennsylvania"	"42"	"Male"	"M"	71560
+	"2016"	"2016"	"Rhode Island"	"44"	"Female"	"F"	5281
+	"2016"	"2016"	"Rhode Island"	"44"	"Male"	"M"	5517
+	"2016"	"2016"	"South Carolina"	"45"	"Female"	"F"	28044
+	"2016"	"2016"	"South Carolina"	"45"	"Male"	"M"	29298
+	"2016"	"2016"	"South Dakota"	"46"	"Female"	"F"	5981
+	"2016"	"2016"	"South Dakota"	"46"	"Male"	"M"	6294
+	"2016"	"2016"	"Tennessee"	"47"	"Female"	"F"	39377
+	"2016"	"2016"	"Tennessee"	"47"	"Male"	"M"	41430
+	"2016"	"2016"	"Texas"	"48"	"Female"	"F"	194708
+	"2016"	"2016"	"Texas"	"48"	"Male"	"M"	203339
+	"2016"	"2016"	"Utah"	"49"	"Female"	"F"	24694
+	"2016"	"2016"	"Utah"	"49"	"Male"	"M"	25770
+	"2016"	"2016"	"Vermont"	"50"	"Female"	"F"	2800
+	"2016"	"2016"	"Vermont"	"50"	"Male"	"M"	2956
+	"2016"	"2016"	"Virginia"	"51"	"Female"	"F"	50401
+	"2016"	"2016"	"Virginia"	"51"	"Male"	"M"	52059
+	"2016"	"2016"	"Washington"	"53"	"Female"	"F"	44278
+	"2016"	"2016"	"Washington"	"53"	"Male"	"M"	46227
+	"2016"	"2016"	"West Virginia"	"54"	"Female"	"F"	9419
+	"2016"	"2016"	"West Virginia"	"54"	"Male"	"M"	9660
+	"2016"	"2016"	"Wisconsin"	"55"	"Female"	"F"	32594
+	"2016"	"2016"	"Wisconsin"	"55"	"Male"	"M"	34021
+	"2016"	"2016"	"Wyoming"	"56"	"Female"	"F"	3597
+	"2016"	"2016"	"Wyoming"	"56"	"Male"	"M"	3789
+	"2017"	"2017"	"Alabama"	"01"	"Female"	"F"	28874
+	"2017"	"2017"	"Alabama"	"01"	"Male"	"M"	30067
+	"2017"	"2017"	"Alaska"	"02"	"Female"	"F"	5098
+	"2017"	"2017"	"Alaska"	"02"	"Male"	"M"	5347
+	"2017"	"2017"	"Arizona"	"04"	"Female"	"F"	40273
+	"2017"	"2017"	"Arizona"	"04"	"Male"	"M"	41599
+	"2017"	"2017"	"Arkansas"	"05"	"Female"	"F"	18393
+	"2017"	"2017"	"Arkansas"	"05"	"Male"	"M"	19127
+	"2017"	"2017"	"California"	"06"	"Female"	"F"	229760
+	"2017"	"2017"	"California"	"06"	"Male"	"M"	241898
+	"2017"	"2017"	"Colorado"	"08"	"Female"	"F"	31639
+	"2017"	"2017"	"Colorado"	"08"	"Male"	"M"	32743
+	"2017"	"2017"	"Connecticut"	"09"	"Female"	"F"	17159
+	"2017"	"2017"	"Connecticut"	"09"	"Male"	"M"	18062
+	"2017"	"2017"	"Delaware"	"10"	"Female"	"F"	5290
+	"2017"	"2017"	"Delaware"	"10"	"Male"	"M"	5565
+	"2017"	"2017"	"District of Columbia"	"11"	"Female"	"F"	4706
+	"2017"	"2017"	"District of Columbia"	"11"	"Male"	"M"	4854
+	"2017"	"2017"	"Florida"	"12"	"Female"	"F"	109393
+	"2017"	"2017"	"Florida"	"12"	"Male"	"M"	114237
+	"2017"	"2017"	"Georgia"	"13"	"Female"	"F"	63213
+	"2017"	"2017"	"Georgia"	"13"	"Male"	"M"	66030
+	"2017"	"2017"	"Hawaii"	"15"	"Female"	"F"	8379
+	"2017"	"2017"	"Hawaii"	"15"	"Male"	"M"	9138
+	"2017"	"2017"	"Idaho"	"16"	"Female"	"F"	10858
+	"2017"	"2017"	"Idaho"	"16"	"Male"	"M"	11323
+	"2017"	"2017"	"Illinois"	"17"	"Female"	"F"	73096
+	"2017"	"2017"	"Illinois"	"17"	"Male"	"M"	76294
+	"2017"	"2017"	"Indiana"	"18"	"Female"	"F"	40323
+	"2017"	"2017"	"Indiana"	"18"	"Male"	"M"	41847
+	"2017"	"2017"	"Iowa"	"19"	"Female"	"F"	18795
+	"2017"	"2017"	"Iowa"	"19"	"Male"	"M"	19635
+	"2017"	"2017"	"Kansas"	"20"	"Female"	"F"	17627
+	"2017"	"2017"	"Kansas"	"20"	"Male"	"M"	18892
+	"2017"	"2017"	"Kentucky"	"21"	"Female"	"F"	26540
+	"2017"	"2017"	"Kentucky"	"21"	"Male"	"M"	28212
+	"2017"	"2017"	"Louisiana"	"22"	"Female"	"F"	29879
+	"2017"	"2017"	"Louisiana"	"22"	"Male"	"M"	31139
+	"2017"	"2017"	"Maine"	"23"	"Female"	"F"	6075
+	"2017"	"2017"	"Maine"	"23"	"Male"	"M"	6223
+	"2017"	"2017"	"Maryland"	"24"	"Female"	"F"	35204
+	"2017"	"2017"	"Maryland"	"24"	"Male"	"M"	36437
+	"2017"	"2017"	"Massachusetts"	"25"	"Female"	"F"	34603
+	"2017"	"2017"	"Massachusetts"	"25"	"Male"	"M"	36099
+	"2017"	"2017"	"Michigan"	"26"	"Female"	"F"	54547
+	"2017"	"2017"	"Michigan"	"26"	"Male"	"M"	56879
+	"2017"	"2017"	"Minnesota"	"27"	"Female"	"F"	33531
+	"2017"	"2017"	"Minnesota"	"27"	"Male"	"M"	35064
+	"2017"	"2017"	"Mississippi"	"28"	"Female"	"F"	18263
+	"2017"	"2017"	"Mississippi"	"28"	"Male"	"M"	19094
+	"2017"	"2017"	"Missouri"	"29"	"Female"	"F"	35560
+	"2017"	"2017"	"Missouri"	"29"	"Male"	"M"	37474
+	"2017"	"2017"	"Montana"	"30"	"Female"	"F"	5765
+	"2017"	"2017"	"Montana"	"30"	"Male"	"M"	6034
+	"2017"	"2017"	"Nebraska"	"31"	"Female"	"F"	12615
+	"2017"	"2017"	"Nebraska"	"31"	"Male"	"M"	13206
+	"2017"	"2017"	"Nevada"	"32"	"Female"	"F"	17479
+	"2017"	"2017"	"Nevada"	"32"	"Male"	"M"	18277
+	"2017"	"2017"	"New Hampshire"	"33"	"Female"	"F"	5966
+	"2017"	"2017"	"New Hampshire"	"33"	"Male"	"M"	6150
+	"2017"	"2017"	"New Jersey"	"34"	"Female"	"F"	49170
+	"2017"	"2017"	"New Jersey"	"34"	"Male"	"M"	52080
+	"2017"	"2017"	"New Mexico"	"35"	"Female"	"F"	11586
+	"2017"	"2017"	"New Mexico"	"35"	"Male"	"M"	12181
+	"2017"	"2017"	"New York"	"36"	"Female"	"F"	112014
+	"2017"	"2017"	"New York"	"36"	"Male"	"M"	117723
+	"2017"	"2017"	"North Carolina"	"37"	"Female"	"F"	58634
+	"2017"	"2017"	"North Carolina"	"37"	"Male"	"M"	61491
+	"2017"	"2017"	"North Dakota"	"38"	"Female"	"F"	5177
+	"2017"	"2017"	"North Dakota"	"38"	"Male"	"M"	5560
+	"2017"	"2017"	"Ohio"	"39"	"Female"	"F"	66857
+	"2017"	"2017"	"Ohio"	"39"	"Male"	"M"	69975
+	"2017"	"2017"	"Oklahoma"	"40"	"Female"	"F"	24323
+	"2017"	"2017"	"Oklahoma"	"40"	"Male"	"M"	25891
+	"2017"	"2017"	"Oregon"	"41"	"Female"	"F"	21181
+	"2017"	"2017"	"Oregon"	"41"	"Male"	"M"	22450
+	"2017"	"2017"	"Pennsylvania"	"42"	"Female"	"F"	67055
+	"2017"	"2017"	"Pennsylvania"	"42"	"Male"	"M"	70690
+	"2017"	"2017"	"Rhode Island"	"44"	"Female"	"F"	5268
+	"2017"	"2017"	"Rhode Island"	"44"	"Male"	"M"	5370
+	"2017"	"2017"	"South Carolina"	"45"	"Female"	"F"	27719
+	"2017"	"2017"	"South Carolina"	"45"	"Male"	"M"	29310
+	"2017"	"2017"	"South Dakota"	"46"	"Female"	"F"	6016
+	"2017"	"2017"	"South Dakota"	"46"	"Male"	"M"	6118
+	"2017"	"2017"	"Tennessee"	"47"	"Female"	"F"	39349
+	"2017"	"2017"	"Tennessee"	"47"	"Male"	"M"	41667
+	"2017"	"2017"	"Texas"	"48"	"Female"	"F"	187092
+	"2017"	"2017"	"Texas"	"48"	"Male"	"M"	194958
+	"2017"	"2017"	"Utah"	"49"	"Female"	"F"	23449
+	"2017"	"2017"	"Utah"	"49"	"Male"	"M"	25136
+	"2017"	"2017"	"Vermont"	"50"	"Female"	"F"	2784
+	"2017"	"2017"	"Vermont"	"50"	"Male"	"M"	2871
+	"2017"	"2017"	"Virginia"	"51"	"Female"	"F"	49020
+	"2017"	"2017"	"Virginia"	"51"	"Male"	"M"	51371
+	"2017"	"2017"	"Washington"	"53"	"Female"	"F"	42727
+	"2017"	"2017"	"Washington"	"53"	"Male"	"M"	44835
+	"2017"	"2017"	"West Virginia"	"54"	"Female"	"F"	9102
+	"2017"	"2017"	"West Virginia"	"54"	"Male"	"M"	9573
+	"2017"	"2017"	"Wisconsin"	"55"	"Female"	"F"	31780
+	"2017"	"2017"	"Wisconsin"	"55"	"Male"	"M"	33195
+	"2017"	"2017"	"Wyoming"	"56"	"Female"	"F"	3409
+	"2017"	"2017"	"Wyoming"	"56"	"Male"	"M"	3494
+	"2018"	"2018"	"Alabama"	"01"	"Female"	"F"	27993
+	"2018"	"2018"	"Alabama"	"01"	"Male"	"M"	29768
+	"2018"	"2018"	"Alaska"	"02"	"Female"	"F"	4878
+	"2018"	"2018"	"Alaska"	"02"	"Male"	"M"	5208
+	"2018"	"2018"	"Arizona"	"04"	"Female"	"F"	39389
+	"2018"	"2018"	"Arizona"	"04"	"Male"	"M"	41334
+	"2018"	"2018"	"Arkansas"	"05"	"Female"	"F"	18188
+	"2018"	"2018"	"Arkansas"	"05"	"Male"	"M"	18830
+	"2018"	"2018"	"California"	"06"	"Female"	"F"	222531
+	"2018"	"2018"	"California"	"06"	"Male"	"M"	232389
+	"2018"	"2018"	"Colorado"	"08"	"Female"	"F"	30863
+	"2018"	"2018"	"Colorado"	"08"	"Male"	"M"	32022
+	"2018"	"2018"	"Connecticut"	"09"	"Female"	"F"	16927
+	"2018"	"2018"	"Connecticut"	"09"	"Male"	"M"	17798
+	"2018"	"2018"	"Delaware"	"10"	"Female"	"F"	5159
+	"2018"	"2018"	"Delaware"	"10"	"Male"	"M"	5462
+	"2018"	"2018"	"District of Columbia"	"11"	"Female"	"F"	4475
+	"2018"	"2018"	"District of Columbia"	"11"	"Male"	"M"	4737
+	"2018"	"2018"	"Florida"	"12"	"Female"	"F"	108088
+	"2018"	"2018"	"Florida"	"12"	"Male"	"M"	113454
+	"2018"	"2018"	"Georgia"	"13"	"Female"	"F"	61712
+	"2018"	"2018"	"Georgia"	"13"	"Male"	"M"	64460
+	"2018"	"2018"	"Hawaii"	"15"	"Female"	"F"	8246
+	"2018"	"2018"	"Hawaii"	"15"	"Male"	"M"	8726
+	"2018"	"2018"	"Idaho"	"16"	"Female"	"F"	10435
+	"2018"	"2018"	"Idaho"	"16"	"Male"	"M"	10968
+	"2018"	"2018"	"Illinois"	"17"	"Female"	"F"	70695
+	"2018"	"2018"	"Illinois"	"17"	"Male"	"M"	74120
+	"2018"	"2018"	"Indiana"	"18"	"Female"	"F"	39911
+	"2018"	"2018"	"Indiana"	"18"	"Male"	"M"	41735
+	"2018"	"2018"	"Iowa"	"19"	"Female"	"F"	18484
+	"2018"	"2018"	"Iowa"	"19"	"Male"	"M"	19301
+	"2018"	"2018"	"Kansas"	"20"	"Female"	"F"	17674
+	"2018"	"2018"	"Kansas"	"20"	"Male"	"M"	18587
+	"2018"	"2018"	"Kentucky"	"21"	"Female"	"F"	26254
+	"2018"	"2018"	"Kentucky"	"21"	"Male"	"M"	27668
+	"2018"	"2018"	"Louisiana"	"22"	"Female"	"F"	29197
+	"2018"	"2018"	"Louisiana"	"22"	"Male"	"M"	30418
+	"2018"	"2018"	"Maine"	"23"	"Female"	"F"	6063
+	"2018"	"2018"	"Maine"	"23"	"Male"	"M"	6248
+	"2018"	"2018"	"Maryland"	"24"	"Female"	"F"	34782
+	"2018"	"2018"	"Maryland"	"24"	"Male"	"M"	36298
+	"2018"	"2018"	"Massachusetts"	"25"	"Female"	"F"	33810
+	"2018"	"2018"	"Massachusetts"	"25"	"Male"	"M"	35299
+	"2018"	"2018"	"Michigan"	"26"	"Female"	"F"	53718
+	"2018"	"2018"	"Michigan"	"26"	"Male"	"M"	56314
+	"2018"	"2018"	"Minnesota"	"27"	"Female"	"F"	33060
+	"2018"	"2018"	"Minnesota"	"27"	"Male"	"M"	34284
+	"2018"	"2018"	"Mississippi"	"28"	"Female"	"F"	18184
+	"2018"	"2018"	"Mississippi"	"28"	"Male"	"M"	18816
+	"2018"	"2018"	"Missouri"	"29"	"Female"	"F"	35966
+	"2018"	"2018"	"Missouri"	"29"	"Male"	"M"	37303
+	"2018"	"2018"	"Montana"	"30"	"Female"	"F"	5609
+	"2018"	"2018"	"Montana"	"30"	"Male"	"M"	5904
+	"2018"	"2018"	"Nebraska"	"31"	"Female"	"F"	12433
+	"2018"	"2018"	"Nebraska"	"31"	"Male"	"M"	13055
+	"2018"	"2018"	"Nevada"	"32"	"Female"	"F"	17370
+	"2018"	"2018"	"Nevada"	"32"	"Male"	"M"	18312
+	"2018"	"2018"	"New Hampshire"	"33"	"Female"	"F"	5978
+	"2018"	"2018"	"New Hampshire"	"33"	"Male"	"M"	6017
+	"2018"	"2018"	"New Jersey"	"34"	"Female"	"F"	49532
+	"2018"	"2018"	"New Jersey"	"34"	"Male"	"M"	51691
+	"2018"	"2018"	"New Mexico"	"35"	"Female"	"F"	11385
+	"2018"	"2018"	"New Mexico"	"35"	"Male"	"M"	11654
+	"2018"	"2018"	"New York"	"36"	"Female"	"F"	110639
+	"2018"	"2018"	"New York"	"36"	"Male"	"M"	115599
+	"2018"	"2018"	"North Carolina"	"37"	"Female"	"F"	58387
+	"2018"	"2018"	"North Carolina"	"37"	"Male"	"M"	60567
+	"2018"	"2018"	"North Dakota"	"38"	"Female"	"F"	5121
+	"2018"	"2018"	"North Dakota"	"38"	"Male"	"M"	5515
+	"2018"	"2018"	"Ohio"	"39"	"Female"	"F"	66201
+	"2018"	"2018"	"Ohio"	"39"	"Male"	"M"	68933
+	"2018"	"2018"	"Oklahoma"	"40"	"Female"	"F"	24287
+	"2018"	"2018"	"Oklahoma"	"40"	"Male"	"M"	25513
+	"2018"	"2018"	"Oregon"	"41"	"Female"	"F"	20615
+	"2018"	"2018"	"Oregon"	"41"	"Male"	"M"	21573
+	"2018"	"2018"	"Pennsylvania"	"42"	"Female"	"F"	65899
+	"2018"	"2018"	"Pennsylvania"	"42"	"Male"	"M"	69774
+	"2018"	"2018"	"Rhode Island"	"44"	"Female"	"F"	5214
+	"2018"	"2018"	"Rhode Island"	"44"	"Male"	"M"	5292
+	"2018"	"2018"	"South Carolina"	"45"	"Female"	"F"	27591
+	"2018"	"2018"	"South Carolina"	"45"	"Male"	"M"	29078
+	"2018"	"2018"	"South Dakota"	"46"	"Female"	"F"	5885
+	"2018"	"2018"	"South Dakota"	"46"	"Male"	"M"	6008
+	"2018"	"2018"	"Tennessee"	"47"	"Female"	"F"	39655
+	"2018"	"2018"	"Tennessee"	"47"	"Male"	"M"	41096
+	"2018"	"2018"	"Texas"	"48"	"Female"	"F"	185303
+	"2018"	"2018"	"Texas"	"48"	"Male"	"M"	193321
+	"2018"	"2018"	"Utah"	"49"	"Female"	"F"	23000
+	"2018"	"2018"	"Utah"	"49"	"Male"	"M"	24209
+	"2018"	"2018"	"Vermont"	"50"	"Female"	"F"	2666
+	"2018"	"2018"	"Vermont"	"50"	"Male"	"M"	2766
+	"2018"	"2018"	"Virginia"	"51"	"Female"	"F"	48629
+	"2018"	"2018"	"Virginia"	"51"	"Male"	"M"	51214
+	"2018"	"2018"	"Washington"	"53"	"Female"	"F"	42233
+	"2018"	"2018"	"Washington"	"53"	"Male"	"M"	43852
+	"2018"	"2018"	"West Virginia"	"54"	"Female"	"F"	8815
+	"2018"	"2018"	"West Virginia"	"54"	"Male"	"M"	9433
+	"2018"	"2018"	"Wisconsin"	"55"	"Female"	"F"	31218
+	"2018"	"2018"	"Wisconsin"	"55"	"Male"	"M"	32880
+	"2018"	"2018"	"Wyoming"	"56"	"Female"	"F"	3186
+	"2018"	"2018"	"Wyoming"	"56"	"Male"	"M"	3376
+	"2019"	"2019"	"Alabama"	"01"	"Female"	"F"	28420
+	"2019"	"2019"	"Alabama"	"01"	"Male"	"M"	30195
+	"2019"	"2019"	"Alaska"	"02"	"Female"	"F"	4703
+	"2019"	"2019"	"Alaska"	"02"	"Male"	"M"	5119
+	"2019"	"2019"	"Arizona"	"04"	"Female"	"F"	38699
+	"2019"	"2019"	"Arizona"	"04"	"Male"	"M"	40676
+	"2019"	"2019"	"Arkansas"	"05"	"Female"	"F"	17805
+	"2019"	"2019"	"Arkansas"	"05"	"Male"	"M"	18759
+	"2019"	"2019"	"California"	"06"	"Female"	"F"	217276
+	"2019"	"2019"	"California"	"06"	"Male"	"M"	229203
+	"2019"	"2019"	"Colorado"	"08"	"Female"	"F"	30660
+	"2019"	"2019"	"Colorado"	"08"	"Male"	"M"	32209
+	"2019"	"2019"	"Connecticut"	"09"	"Female"	"F"	16802
+	"2019"	"2019"	"Connecticut"	"09"	"Male"	"M"	17456
+	"2019"	"2019"	"Delaware"	"10"	"Female"	"F"	5124
+	"2019"	"2019"	"Delaware"	"10"	"Male"	"M"	5438
+	"2019"	"2019"	"District of Columbia"	"11"	"Female"	"F"	4466
+	"2019"	"2019"	"District of Columbia"	"11"	"Male"	"M"	4613
+	"2019"	"2019"	"Florida"	"12"	"Female"	"F"	107453
+	"2019"	"2019"	"Florida"	"12"	"Male"	"M"	112549
+	"2019"	"2019"	"Georgia"	"13"	"Female"	"F"	62057
+	"2019"	"2019"	"Georgia"	"13"	"Male"	"M"	64314
+	"2019"	"2019"	"Hawaii"	"15"	"Female"	"F"	8019
+	"2019"	"2019"	"Hawaii"	"15"	"Male"	"M"	8778
+	"2019"	"2019"	"Idaho"	"16"	"Female"	"F"	10794
+	"2019"	"2019"	"Idaho"	"16"	"Male"	"M"	11269
+	"2019"	"2019"	"Illinois"	"17"	"Female"	"F"	68340
+	"2019"	"2019"	"Illinois"	"17"	"Male"	"M"	71788
+	"2019"	"2019"	"Indiana"	"18"	"Female"	"F"	39351
+	"2019"	"2019"	"Indiana"	"18"	"Male"	"M"	41508
+	"2019"	"2019"	"Iowa"	"19"	"Female"	"F"	18404
+	"2019"	"2019"	"Iowa"	"19"	"Male"	"M"	19245
+	"2019"	"2019"	"Kansas"	"20"	"Female"	"F"	17354
+	"2019"	"2019"	"Kansas"	"20"	"Male"	"M"	18041
+	"2019"	"2019"	"Kentucky"	"21"	"Female"	"F"	25952
+	"2019"	"2019"	"Kentucky"	"21"	"Male"	"M"	27117
+	"2019"	"2019"	"Louisiana"	"22"	"Female"	"F"	28720
+	"2019"	"2019"	"Louisiana"	"22"	"Male"	"M"	30221
+	"2019"	"2019"	"Maine"	"23"	"Female"	"F"	5852
+	"2019"	"2019"	"Maine"	"23"	"Male"	"M"	5927
+	"2019"	"2019"	"Maryland"	"24"	"Female"	"F"	34212
+	"2019"	"2019"	"Maryland"	"24"	"Male"	"M"	35966
+	"2019"	"2019"	"Massachusetts"	"25"	"Female"	"F"	33868
+	"2019"	"2019"	"Massachusetts"	"25"	"Male"	"M"	35249
+	"2019"	"2019"	"Michigan"	"26"	"Female"	"F"	53066
+	"2019"	"2019"	"Michigan"	"26"	"Male"	"M"	54820
+	"2019"	"2019"	"Minnesota"	"27"	"Female"	"F"	32330
+	"2019"	"2019"	"Minnesota"	"27"	"Male"	"M"	33697
+	"2019"	"2019"	"Mississippi"	"28"	"Female"	"F"	17889
+	"2019"	"2019"	"Mississippi"	"28"	"Male"	"M"	18747
+	"2019"	"2019"	"Missouri"	"29"	"Female"	"F"	35072
+	"2019"	"2019"	"Missouri"	"29"	"Male"	"M"	37055
+	"2019"	"2019"	"Montana"	"30"	"Female"	"F"	5465
+	"2019"	"2019"	"Montana"	"30"	"Male"	"M"	5614
+	"2019"	"2019"	"Nebraska"	"31"	"Female"	"F"	12127
+	"2019"	"2019"	"Nebraska"	"31"	"Male"	"M"	12628
+	"2019"	"2019"	"Nevada"	"32"	"Female"	"F"	16952
+	"2019"	"2019"	"Nevada"	"32"	"Male"	"M"	18120
+	"2019"	"2019"	"New Hampshire"	"33"	"Female"	"F"	5759
+	"2019"	"2019"	"New Hampshire"	"33"	"Male"	"M"	6080
+	"2019"	"2019"	"New Jersey"	"34"	"Female"	"F"	48333
+	"2019"	"2019"	"New Jersey"	"34"	"Male"	"M"	51252
+	"2019"	"2019"	"New Mexico"	"35"	"Female"	"F"	11202
+	"2019"	"2019"	"New Mexico"	"35"	"Male"	"M"	11758
+	"2019"	"2019"	"New York"	"36"	"Female"	"F"	108474
+	"2019"	"2019"	"New York"	"36"	"Male"	"M"	113065
+	"2019"	"2019"	"North Carolina"	"37"	"Female"	"F"	58120
+	"2019"	"2019"	"North Carolina"	"37"	"Male"	"M"	60605
+	"2019"	"2019"	"North Dakota"	"38"	"Female"	"F"	5040
+	"2019"	"2019"	"North Dakota"	"38"	"Male"	"M"	5414
+	"2019"	"2019"	"Ohio"	"39"	"Female"	"F"	65853
+	"2019"	"2019"	"Ohio"	"39"	"Male"	"M"	68608
+	"2019"	"2019"	"Oklahoma"	"40"	"Female"	"F"	23907
+	"2019"	"2019"	"Oklahoma"	"40"	"Male"	"M"	25236
+	"2019"	"2019"	"Oregon"	"41"	"Female"	"F"	20389
+	"2019"	"2019"	"Oregon"	"41"	"Male"	"M"	21469
+	"2019"	"2019"	"Pennsylvania"	"42"	"Female"	"F"	65740
+	"2019"	"2019"	"Pennsylvania"	"42"	"Male"	"M"	68490
+	"2019"	"2019"	"Rhode Island"	"44"	"Female"	"F"	4992
+	"2019"	"2019"	"Rhode Island"	"44"	"Male"	"M"	5183
+	"2019"	"2019"	"South Carolina"	"45"	"Female"	"F"	27882
+	"2019"	"2019"	"South Carolina"	"45"	"Male"	"M"	29156
+	"2019"	"2019"	"South Dakota"	"46"	"Female"	"F"	5573
+	"2019"	"2019"	"South Dakota"	"46"	"Male"	"M"	5876
+	"2019"	"2019"	"Tennessee"	"47"	"Female"	"F"	39451
+	"2019"	"2019"	"Tennessee"	"47"	"Male"	"M"	40999
+	"2019"	"2019"	"Texas"	"48"	"Female"	"F"	184612
+	"2019"	"2019"	"Texas"	"48"	"Male"	"M"	192987
+	"2019"	"2019"	"Utah"	"49"	"Female"	"F"	22886
+	"2019"	"2019"	"Utah"	"49"	"Male"	"M"	23940
+	"2019"	"2019"	"Vermont"	"50"	"Female"	"F"	2607
+	"2019"	"2019"	"Vermont"	"50"	"Male"	"M"	2754
+	"2019"	"2019"	"Virginia"	"51"	"Female"	"F"	47554
+	"2019"	"2019"	"Virginia"	"51"	"Male"	"M"	49875
+	"2019"	"2019"	"Washington"	"53"	"Female"	"F"	41545
+	"2019"	"2019"	"Washington"	"53"	"Male"	"M"	43350
+	"2019"	"2019"	"West Virginia"	"54"	"Female"	"F"	8832
+	"2019"	"2019"	"West Virginia"	"54"	"Male"	"M"	9304
+	"2019"	"2019"	"Wisconsin"	"55"	"Female"	"F"	30928
+	"2019"	"2019"	"Wisconsin"	"55"	"Male"	"M"	32342
+	"2019"	"2019"	"Wyoming"	"56"	"Female"	"F"	3183
+	"2019"	"2019"	"Wyoming"	"56"	"Male"	"M"	3382
+	"2020"	"2020"	"Alabama"	"01"	"Female"	"F"	28269
+	"2020"	"2020"	"Alabama"	"01"	"Male"	"M"	29378
+	"2020"	"2020"	"Alaska"	"02"	"Female"	"F"	4665
+	"2020"	"2020"	"Alaska"	"02"	"Male"	"M"	4804
+	"2020"	"2020"	"Arizona"	"04"	"Female"	"F"	37774
+	"2020"	"2020"	"Arizona"	"04"	"Male"	"M"	39173
+	"2020"	"2020"	"Arkansas"	"05"	"Female"	"F"	17211
+	"2020"	"2020"	"Arkansas"	"05"	"Male"	"M"	18040
+	"2020"	"2020"	"California"	"06"	"Female"	"F"	205481
+	"2020"	"2020"	"California"	"06"	"Male"	"M"	214778
+	"2020"	"2020"	"Colorado"	"08"	"Female"	"F"	29978
+	"2020"	"2020"	"Colorado"	"08"	"Male"	"M"	31516
+	"2020"	"2020"	"Connecticut"	"09"	"Female"	"F"	16365
+	"2020"	"2020"	"Connecticut"	"09"	"Male"	"M"	17095
+	"2020"	"2020"	"Delaware"	"10"	"Female"	"F"	5037
+	"2020"	"2020"	"Delaware"	"10"	"Male"	"M"	5355
+	"2020"	"2020"	"District of Columbia"	"11"	"Female"	"F"	4292
+	"2020"	"2020"	"District of Columbia"	"11"	"Male"	"M"	4582
+	"2020"	"2020"	"Florida"	"12"	"Female"	"F"	102292
+	"2020"	"2020"	"Florida"	"12"	"Male"	"M"	107379
+	"2020"	"2020"	"Georgia"	"13"	"Female"	"F"	59813
+	"2020"	"2020"	"Georgia"	"13"	"Male"	"M"	62660
+	"2020"	"2020"	"Hawaii"	"15"	"Female"	"F"	7669
+	"2020"	"2020"	"Hawaii"	"15"	"Male"	"M"	8116
+	"2020"	"2020"	"Idaho"	"16"	"Female"	"F"	10413
+	"2020"	"2020"	"Idaho"	"16"	"Male"	"M"	11120
+	"2020"	"2020"	"Illinois"	"17"	"Female"	"F"	65115
+	"2020"	"2020"	"Illinois"	"17"	"Male"	"M"	68183
+	"2020"	"2020"	"Indiana"	"18"	"Female"	"F"	38334
+	"2020"	"2020"	"Indiana"	"18"	"Male"	"M"	40282
+	"2020"	"2020"	"Iowa"	"19"	"Female"	"F"	17692
+	"2020"	"2020"	"Iowa"	"19"	"Male"	"M"	18422
+	"2020"	"2020"	"Kansas"	"20"	"Female"	"F"	16813
+	"2020"	"2020"	"Kansas"	"20"	"Male"	"M"	17563
+	"2020"	"2020"	"Kentucky"	"21"	"Female"	"F"	25373
+	"2020"	"2020"	"Kentucky"	"21"	"Male"	"M"	26295
+	"2020"	"2020"	"Louisiana"	"22"	"Female"	"F"	28024
+	"2020"	"2020"	"Louisiana"	"22"	"Male"	"M"	29304
+	"2020"	"2020"	"Maine"	"23"	"Female"	"F"	5697
+	"2020"	"2020"	"Maine"	"23"	"Male"	"M"	5842
+	"2020"	"2020"	"Maryland"	"24"	"Female"	"F"	33734
+	"2020"	"2020"	"Maryland"	"24"	"Male"	"M"	34820
+	"2020"	"2020"	"Massachusetts"	"25"	"Female"	"F"	32699
+	"2020"	"2020"	"Massachusetts"	"25"	"Male"	"M"	33729
+	"2020"	"2020"	"Michigan"	"26"	"Female"	"F"	50856
+	"2020"	"2020"	"Michigan"	"26"	"Male"	"M"	53218
+	"2020"	"2020"	"Minnesota"	"27"	"Female"	"F"	30782
+	"2020"	"2020"	"Minnesota"	"27"	"Male"	"M"	32661
+	"2020"	"2020"	"Mississippi"	"28"	"Female"	"F"	17455
+	"2020"	"2020"	"Mississippi"	"28"	"Male"	"M"	18018
+	"2020"	"2020"	"Missouri"	"29"	"Female"	"F"	33622
+	"2020"	"2020"	"Missouri"	"29"	"Male"	"M"	35663
+	"2020"	"2020"	"Montana"	"30"	"Female"	"F"	5240
+	"2020"	"2020"	"Montana"	"30"	"Male"	"M"	5551
+	"2020"	"2020"	"Nebraska"	"31"	"Female"	"F"	11939
+	"2020"	"2020"	"Nebraska"	"31"	"Male"	"M"	12352
+	"2020"	"2020"	"Nevada"	"32"	"Female"	"F"	16403
+	"2020"	"2020"	"Nevada"	"32"	"Male"	"M"	17250
+	"2020"	"2020"	"New Hampshire"	"33"	"Female"	"F"	5768
+	"2020"	"2020"	"New Hampshire"	"33"	"Male"	"M"	6023
+	"2020"	"2020"	"New Jersey"	"34"	"Female"	"F"	47826
+	"2020"	"2020"	"New Jersey"	"34"	"Male"	"M"	50128
+	"2020"	"2020"	"New Mexico"	"35"	"Female"	"F"	10560
+	"2020"	"2020"	"New Mexico"	"35"	"Male"	"M"	11343
+	"2020"	"2020"	"New York"	"36"	"Female"	"F"	102072
+	"2020"	"2020"	"New York"	"36"	"Male"	"M"	107266
+	"2020"	"2020"	"North Carolina"	"37"	"Female"	"F"	57058
+	"2020"	"2020"	"North Carolina"	"37"	"Male"	"M"	59672
+	"2020"	"2020"	"North Dakota"	"38"	"Female"	"F"	4991
+	"2020"	"2020"	"North Dakota"	"38"	"Male"	"M"	5068
+	"2020"	"2020"	"Ohio"	"39"	"Female"	"F"	62774
+	"2020"	"2020"	"Ohio"	"39"	"Male"	"M"	66417
+	"2020"	"2020"	"Oklahoma"	"40"	"Female"	"F"	23274
+	"2020"	"2020"	"Oklahoma"	"40"	"Male"	"M"	24349
+	"2020"	"2020"	"Oregon"	"41"	"Female"	"F"	19436
+	"2020"	"2020"	"Oregon"	"41"	"Male"	"M"	20384
+	"2020"	"2020"	"Pennsylvania"	"42"	"Female"	"F"	64059
+	"2020"	"2020"	"Pennsylvania"	"42"	"Male"	"M"	66634
+	"2020"	"2020"	"Rhode Island"	"44"	"Female"	"F"	5010
+	"2020"	"2020"	"Rhode Island"	"44"	"Male"	"M"	5091
+	"2020"	"2020"	"South Carolina"	"45"	"Female"	"F"	27323
+	"2020"	"2020"	"South Carolina"	"45"	"Male"	"M"	28381
+	"2020"	"2020"	"South Dakota"	"46"	"Female"	"F"	5376
+	"2020"	"2020"	"South Dakota"	"46"	"Male"	"M"	5584
+	"2020"	"2020"	"Tennessee"	"47"	"Female"	"F"	38670
+	"2020"	"2020"	"Tennessee"	"47"	"Male"	"M"	40019
+	"2020"	"2020"	"Texas"	"48"	"Female"	"F"	179717
+	"2020"	"2020"	"Texas"	"48"	"Male"	"M"	188473
+	"2020"	"2020"	"Utah"	"49"	"Female"	"F"	22036
+	"2020"	"2020"	"Utah"	"49"	"Male"	"M"	23666
+	"2020"	"2020"	"Vermont"	"50"	"Female"	"F"	2523
+	"2020"	"2020"	"Vermont"	"50"	"Male"	"M"	2610
+	"2020"	"2020"	"Virginia"	"51"	"Female"	"F"	46123
+	"2020"	"2020"	"Virginia"	"51"	"Male"	"M"	48626
+	"2020"	"2020"	"Washington"	"53"	"Female"	"F"	40710
+	"2020"	"2020"	"Washington"	"53"	"Male"	"M"	42376
+	"2020"	"2020"	"West Virginia"	"54"	"Female"	"F"	8532
+	"2020"	"2020"	"West Virginia"	"54"	"Male"	"M"	8791
+	"2020"	"2020"	"Wisconsin"	"55"	"Female"	"F"	29641
+	"2020"	"2020"	"Wisconsin"	"55"	"Male"	"M"	30953
+	"2020"	"2020"	"Wyoming"	"56"	"Female"	"F"	3039
+	"2020"	"2020"	"Wyoming"	"56"	"Male"	"M"	3089
+"---"
+"Dataset: Natality, 2016-2020 expanded"
+"Query Parameters:"
+"Year: 2016; 2017; 2018; 2019; 2020"
+"Group By: Year; State of Residence; Sex of Infant"
+"Show Totals: False"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 1,000"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/Natality-expanded.html for more information."
+"---"
+"Query Date: Oct 25, 2022 2:22:00 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Natality on CDC WONDER Online Database. Data are from the Natality Records 2016-2020, as compiled from data provided by"
+"the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed at"
+"http://wonder.cdc.gov/natality-expanded-current.html on Oct 25, 2022 2:22:00 PM"
+"---"
+Caveats:
+"1. Each birth record represents one liveborn infant."

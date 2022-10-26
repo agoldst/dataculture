@@ -18,3 +18,40 @@
 #' }
 #' @source <https://doi.org/10.5281/zenodo.891264>
 "recipes"
+
+#' US baby names, 2016–2020
+#'
+#' Names by birth year and sex, from the U.S. Social Security Administration.
+#'
+#' A supplement to the `babynames` package with a few more years of data. Frequencies are not strictly comparable as the denominator is US live births rather than Social Security applicants as in `babynames`.
+#'
+#' @format ## `recipes`
+#' A data frame with 161,413 rows and 5 columns:
+#' \describe{
+#'   \item{year}{birth year}
+#'   \item{name}{first name}
+#'   \item{sex}{\code{M} or \code{F}}
+#'   \item{n}{count}
+#'   \item{prop}{frequency per live births of that sex}
+#' }
+#' @source <https://www.ssa.gov/oact/babynames/names.zip> for the names, <http://wonder.cdc.gov/natality-expanded-current.html> for live births data.
+"recent_ssa_names"
+
+#' US baby names, 2016–2020, by state
+#'
+#' Names by birth year, sex, and state, from the U.S. Social Security Administration.
+#'
+#' Recent baby names, by state, as a supplement to the `babynames` package. Frequencies are not strictly comparable as the denominator is state live births rather than Social Security applicants as in `babynames`.
+#'
+#' @format ## `recipes`
+#' A data frame with 161,413 rows and 5 columns:
+#' \describe{
+#'   \item{year}{birth year}
+#'   \item{name}{first name}
+#'   \item{sex}{\code{M} or \code{F}}
+#'   \item{n}{count}
+#'   \item{state}{state (two-letter code)}
+#'   \item{prop}{frequency per live births of that sex}
+#' }
+#' @source <https://www.ssa.gov/oact/babynames/namesbystate.zip> for the names, <http://wonder.cdc.gov/natality-expanded-current.html> for live births data.
+"recent_ssa_state_names"
