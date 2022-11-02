@@ -19,6 +19,28 @@
 #' @source <https://doi.org/10.5281/zenodo.891264>
 "recipes"
 
+#' Historic American Cookbook Recipes: Ingredients Data
+#'
+#' Unnested version of \code{recipes}.
+#'
+#' For exploratory convenience, a duplicate version of \code{recipes} with the
+#' \code{ingredients} list-column unnested and each recipe ssigned a distinct ID.
+#'
+#' @format ## `ingreds`
+#' A data frame with 382487 rows and 7 columns:
+#' \describe{
+#'   \item{recipe_id}{sequential recipe number}
+#'   \item{book_id}{book identifier (filename in Feeding America data)}
+#'   \item{date}{year of publication}
+#'   \item{ethnicgroup}{ethnic category (may be \code{NA})}
+#'   \item{recipe_class}{type of recipe}
+#'   \item{region}{geographic region of origin}
+#'   \item{ingredients}{name of ingredient}
+#' }
+#' @source <https://doi.org/10.5281/zenodo.891264>
+"ingreds"
+
+
 #' US baby names, 2016–2020
 #'
 #' Names by birth year and sex, from the U.S. Social Security Administration.
@@ -55,3 +77,17 @@
 #' }
 #' @source <https://www.ssa.gov/oact/babynames/namesbystate.zip> for the names, <http://wonder.cdc.gov/natality-expanded-current.html> for live births data.
 "recent_ssa_state_names"
+
+#' General Social Survey 1993 Culture Module Excerpt
+#'
+#' Selected variables from the 1993 General Social Survey, including the questions on musical taste from the Culture Module. Data has been selected from the Cumulative Data File made available in the `gssr` package, categorical variables have been converted to `factor` type for convenience, and two new variables, `music_likes` and `music_dislikes`, have been created.
+#'
+#' @format ## `gssmusic`
+#' A data frame with 1606 rows and 33 columns.
+#' \describe{
+#'   \item{music_likes}{number of music genres respondent likes or likes very much}
+#'   \item{music_dislikes}{number of music genres respondent dislikes or dislikes very much}
+#' }
+#' @source General Social Survey, <https://gss.norc.org/>, via Kieran Healy's gssr package <https://kjhealy.github.io/gssr/>.
+"gssmusic"
+
