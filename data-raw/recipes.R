@@ -15,4 +15,10 @@ unzip(zipfile,
 
 recipes <- read_csv("feeding-america.csv")
 recipes <- recipes |> mutate(ingredients=str_split(ingredients,";"))
-usethis::use_data(recipes, overwrite = TRUE)
+
+ingreds <- recipes |>
+    mutate(recipe_id=seq(n())) |>
+    select(recipe_id, everything()) |>
+    unnest(ingredients)
+
+usethis::use_data(recipes, ingreds, overwrite = TRUE)
