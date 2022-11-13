@@ -16,5 +16,6 @@ Depends:
 Imports: 
     babynames,
     ukbabynames,
-    gender
+    gender,
+    Matrix
 LazyData: true
