@@ -16,6 +16,7 @@ Depends:
 Imports: 
     babynames,
     ukbabynames,
-    gender,
-    Matrix
+    Matrix,
+    igraph,
+    networkD3
 LazyData: true
