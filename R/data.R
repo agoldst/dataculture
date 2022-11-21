@@ -148,3 +148,23 @@
 #'
 #' @source <https://www.ideals.illinois.edu/items/105528> for the data; files in <https://github.com/tedunderwood/horizon/blob/master/chapter2/modeloutput> for the choice of features.
 "genre_features"
+
+
+#' Speaker interactions in Hamlet
+#'
+#' Speaker interactions in Shakespeare's _Hamlet_. Two characters are recorded as interacting if one speaks directly after another within a scene of the play. X speaking after Y is counted the same as Y speaking after X. Data has been extracted from the XML version of the New Folger Library Edition of _Hamlet_ (a conflated text of the play) following a method demonstrated in Karsdorp et al.'s _Humanities Data Analysis_.
+#'
+#' Speaker identifications have been extracted from `who` attributes of `sp` speech-heading tags, with leading `#` and trailing `_Ham` removed. 
+#'
+#' @format ## `hamlet`
+#' A data frame with 140 rows and 5 columns
+#' \describe{
+#'   \item{s1}{first speaker in interaction, alphabetically}
+#'   \item{s2}{second speaker in interaction, alphabetically}
+#'   \item{act}{act number of the play in which the pair appears}
+#'   \item{scene}{scene number of the play in which the pair appears}
+#'   \item{turns}{number of times either speaks after the other in that act and scene}
+#' }
+#'
+#' @source <https://shakespeare.folger.edu/shakespeares-works/hamlet/download/>. The New Folger Shakespeare is available under a [CC-BY-NC 3.0](https://creativecommons.org/licenses/by-nc/3.0/deed.en_US) license. The algorithm for extracting interactions is based on Folgert Karsdorp et al., _Humanities Data Analysis: Case Studies with Python_ (Princeton University Press, 2021), chap. 2.
+"hamlet"
