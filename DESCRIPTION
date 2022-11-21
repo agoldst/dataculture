@@ -18,5 +18,6 @@ Imports:
     ukbabynames,
     Matrix,
     igraph,
-    networkD3
+    networkD3,
+    ggraph
 LazyData: true
