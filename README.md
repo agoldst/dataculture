@@ -13,8 +13,3 @@ To update the package, simply do
 remotes::install_github("agoldst/dataculture")
 ```
 
-To install the data associated with the `gender` package, which is used in the course, run
-
-```r
-gender::install_genderdata_package()
-```
