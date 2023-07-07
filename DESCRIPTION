@@ -1,23 +1,18 @@
 Package: dataculture
 Title: Supporting Materials for Data and Culture Course
-Version: 1.0
+Version: 1.1
 Authors@R: 
     person("Andrew", "Goldstone", , "andrew.goldstone@rutgers.edu",
         role = c("aut", "cre"))
-Description: Provides convenient access to data and dependencies for the R labs in 
-    Data & Culture 359:207 at Rutgers-New Brunswick.
+Description: Provides example cultural datasets as used in the R labs in 
+    Data & Culture 359:207 at Rutgers-New Brunswick in Fall 2022.
 License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
-RoxygenNote: 7.2.1
+RoxygenNote: 7.2.3
 Depends: 
-    R (>= 2.10),
-    tidyverse
-Imports: 
-    babynames,
-    ukbabynames,
+    R (>= 2.10)
+Imports:
     Matrix,
-    igraph,
-    networkD3,
-    ggraph
+    tibble
 LazyData: true
