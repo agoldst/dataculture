@@ -8,6 +8,13 @@
 \description{
 Provides example cultural datasets as used in the R labs in Data & Culture 359:207 at Rutgers-New Brunswick in Fall 2022.
 }
+\seealso{
+Useful links:
+\itemize{
+  \item \url{https://agoldst.github.io/dataculture/}
+}
+
+}
 \author{
 \strong{Maintainer}: Andrew Goldstone \email{andrew.goldstone@rutgers.edu}
 
