@@ -24,7 +24,7 @@ Anyone is of course welcome to reuse or remix any of the datasets here (as well 
 
 **The networks of revolutionary Boston** (`ggraph::whigs`). Secret society memberships of members of Boston's Whig activists on the eve of the American Revolution. This is Sir Not Appearing In This Package, but the `ggraph` package, which I taught in the course, includes this dataset, created by [Kieran Healy](https://github.com/kjhealy/revere) on the basis of work by the historian [David Hackett Fischer](https://www.worldcat.org/title/34184142).
 
-The [data-raw] directory contains R code demonstrating how I obtained and formatted the R objects included as data.
+The [data-raw](https://github.com/agoldst/dataculture/tree/main/data-raw) directory contains R code demonstrating how I obtained and formatted the R objects included as data.
 
 
 For pedagogical purposes I found it useful to include the R packages I was teaching with in the labs  as dependencies of this package. That way all required R packages for the course could be installed as follows:
